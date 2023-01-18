@@ -608,11 +608,11 @@ img {
   left: 15px;
   width: 16px;
   height: 15px;
-  background-image: url(/images/check-box.svg);
+  background-image: url(../images/check-box.svg);
 }
 
 .check__input:checked + .check__box {
-  background-image: url(/images/check.svg);
+  background-image: url(../images/check.svg);
 }
 .agreement__text {
   color: var(--light-grey);
